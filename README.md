@@ -36,10 +36,11 @@ I am **Muhammadyusuf Sotvoldiyev**, a highly motivated **Mobile App Developer** 
 
 ---
 
-x## 📈 Contributions Graph
+## 📈 Contributions Graph
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sotvoldiyew&theme=radical" alt="Contributions Graph" />
+  <img src="SURAT_LINKI_BU_YERGA" alt="Contributions Graph" />
 </p>
+
 
 
 ---
