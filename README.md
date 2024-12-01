@@ -36,9 +36,9 @@ I am **Muhammadyusuf Sotvoldiyev**, a highly motivated **Mobile App Developer** 
 
 ---
 
-## 📈 Contributions Graph
+## 🐍 Contributions Snake
 <p align="center">
-  <img src="SURAT_LINKI_BU_YERGA" alt="Contributions Graph" />
+  <img src="https://github.com/sotvoldiyew/sotvoldiyew/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 
