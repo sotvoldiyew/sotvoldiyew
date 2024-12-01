@@ -36,12 +36,11 @@ I am **Muhammadyusuf Sotvoldiyev**, a highly motivated **Mobile App Developer** 
 
 ---
 
-## 📊 GitHub Stats
+x## 📈 Contributions Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sotvoldiyew&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sotvoldiyew&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sotvoldiyew&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sotvoldiyew&theme=radical" alt="Contributions Graph" />
 </p>
+
 
 ---
 
