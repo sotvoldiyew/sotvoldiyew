@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Building+innovative+mobile+apps;Passionate+about+clean+and+scalable+code" alt="Typing SVG" />
 </p>
- 
+
 ---
 
 ## 🌟 About Me
